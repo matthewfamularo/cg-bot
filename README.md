@@ -1,2 +1,2 @@
 # cg-bot
-CG Bot is a CraigsList scraper and auto reply program written in Java.
+CG Bot is a CraigsList scraper and auto response program written in Java.
